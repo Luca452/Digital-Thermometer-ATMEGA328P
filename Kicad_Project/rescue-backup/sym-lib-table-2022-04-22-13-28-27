@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "termometro_digitale-rescue")(type "Legacy")(uri "${KIPRJMOD}/termometro_digitale-rescue.lib")(options "")(descr ""))
+  (lib (name "LM236")(type "Legacy")(uri "${KIPRJMOD}/LM236.lib")(options "")(descr ""))
+  (lib (name "lm335")(type "Legacy")(uri "${KIPRJMOD}/lm335.lib")(options "")(descr ""))
+  (lib (name "zener")(type "Legacy")(uri "${KIPRJMOD}/zener.lib")(options "")(descr ""))
+  (lib (name "w_analog")(type "Legacy")(uri "${KIPRJMOD}/librerie/w_analog.lib")(options "")(descr ""))
+)

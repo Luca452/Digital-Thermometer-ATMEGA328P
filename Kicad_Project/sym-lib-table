@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "termometro_digitale-rescue")(type "Legacy")(uri "${KIPRJMOD}/termometro_digitale-rescue.lib")(options "")(descr ""))
+)
